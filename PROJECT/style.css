@@ -1,0 +1,44 @@
+body {
+    height: 100vh;
+    background:  linear-gradient(#edff4b,#3cf8e8,#58ff37);
+}
+
+h1 {
+text-align: center;
+padding: 20px;
+font-family: arial;
+background-color: #C74B50;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    border: 5px ridge ;
+}
+
+p {
+    font-size: 17px;
+}
+
+h2 {
+    text-align: center;
+    background-color: #B7CADB;
+}
+
+.abc{
+    font-family: cursive;
+    height: 950px;
+    width: 1850px;
+    border: 5px ridge #712B75;
+    margin: 20px;
+
+}
+
+a {
+    background-color: #58ff37;
+    color: #3A3845;
+    padding: 5px 10px;
+    border: 2px solid #fffcdc;
+    border-radius: 5px;
+    text-decoration: none;
+}
